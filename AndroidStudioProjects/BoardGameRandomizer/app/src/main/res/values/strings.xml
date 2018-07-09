@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Board Game Randomizer</string>
+    <string name="input_hint">Number or Players</string>
+    <string name="input1_hint">Team 1 Score</string>
+    <string name="input2_hint">Team 2 Score</string>
+
+    <string name="die_label">Roll Die</string>
+    <string name="team_label">Teams</string>
+    <string name="seat_label">Seatings</string>
+    <string name="scoreBoard_label">Scoreboard</string>
+    <string name="score_label">Score</string>
+
+    <string name="no_input">Enter an Input Above</string>
+    <string name="no_function">Feature does not work yet.</string>
+    <string name="title_activity_score_board">ScoreBoardActivity</string>
+    <string name="team1">Team 1</string>
+    <string name="team2">Team 2</string>
+</resources>
